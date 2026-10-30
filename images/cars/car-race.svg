@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 120" role="img" aria-label="Toy race car">
+<ellipse cx="130" cy="110" rx="115" ry="5" fill="#000" opacity=".18"/>
+<rect x="8" y="46" width="42" height="8" rx="3" fill="#d98e00"/><rect x="22" y="52" width="6" height="22" fill="#d98e00"/><rect x="34" y="52" width="6" height="22" fill="#d98e00"/>
+<path d="M10 90l6-18 56-8 28-20q12-8 32-4l26 8 14 20 70 8 8 14z" fill="#ffc233"/>
+<path d="M10 90l6-10h236l8 10z" fill="#d98e00" opacity=".3"/>
+<circle cx="122" cy="40" r="15" fill="#fff"/><path d="M114 38h22q0 10-11 10t-11-10z" fill="#27324a"/><rect x="112" y="30" width="28" height="4" rx="2" fill="#e63946"/>
+<circle cx="168" cy="74" r="12" fill="#fff"/><text x="168" y="80" font-family="Bungee,Impact,sans-serif" font-size="17" text-anchor="middle" fill="#1b1f2a">1</text>
+<rect x="210" y="88" width="46" height="6" rx="3" fill="#d98e00"/>
+<path d="M36 76h60M48 82h34" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+<circle cx="62" cy="90" r="25" fill="#d98e00"/><circle cx="206" cy="90" r="25" fill="#d98e00"/><g class="wheel" style="transform-origin:62px 90px"><circle cx="62" cy="90" r="20" fill="#1b1f2a"/><circle cx="62" cy="90" r="10.4" fill="#e8ecf2"/><circle cx="62" cy="90" r="3.6" fill="#8a93a5"/><rect x="60" y="80.0" width="4" height="20" rx="2" fill="#8a93a5"/><rect x="52.0" y="88" width="20" height="4" rx="2" fill="#8a93a5"/></g><g class="wheel" style="transform-origin:206px 90px"><circle cx="206" cy="90" r="20" fill="#1b1f2a"/><circle cx="206" cy="90" r="10.4" fill="#e8ecf2"/><circle cx="206" cy="90" r="3.6" fill="#8a93a5"/><rect x="204" y="80.0" width="4" height="20" rx="2" fill="#8a93a5"/><rect x="196.0" y="88" width="20" height="4" rx="2" fill="#8a93a5"/></g></svg>
